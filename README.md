@@ -1,10 +1,10 @@
 <!-- Profile banner or animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Welcome Banner" />
 
 
 <h1 align="center">Hi 👋, I'm Bonthu Sri Rama Manikanta Sai</h1>
 <h3 align="center">🚀 Passionate Developer | 🎓 3rd Year CSE | 💻 Java | 🧠 DSA | ⚛️ React | ☁️ GitHub Actions</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Welcome Banner" />
 </p>
 ---
 
