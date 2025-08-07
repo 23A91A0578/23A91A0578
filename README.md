@@ -47,7 +47,7 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:srirambonthu767@gmail.com"><img src="https://img.shields.io/badge/Gmail-srirambonthu767@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:srirambonthu767@gmail.com"><img src="https://img.shields.io/badge/Gmail-srirambonthu767@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>    
   <a href="https://www.linkedin.com/in/sriram-bonthu-207213355"><img src="https://img.shields.io/badge/LinkedIn-sriram--bonthu-blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/23A91A0578"><img src="https://img.shields.io/badge/GitHub-23A91A0578-black?style=flat&logo=github" /></a>
 </p>
