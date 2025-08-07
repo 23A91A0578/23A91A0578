@@ -1,15 +1,18 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Manikanta Sai</h1>
-<h3 align="center">🚀 Final Year CSE | Full Stack Developer | Problem Solver | Placement-Ready</h3>
+<h1 align="center">Hi 👋, I'm Bonthu Sri Rama Manikanta Sai</h1>
+<h3 align="center">🚀 CSE Student | Full Stack Developer | Problem Solver | Placement-Ready</h3>
 
 ---
 
 ## 💡 About Me:
 - 🎓 3rd Year BTech CSE Student
 - 🌱 Currently learning: **Java, DSA, React, GitHub Actions**
-- 🛠️ Building: `Hospital Queue System`, `Smart Supermarket App`, `Campus Hub`
-- 🎯 Goal: Crack placements by **November 2025**
+- 🛠️ Building: `Hospital Queue Management System`
+- 🔭 Aim: To get hired and evolve into a skilled, industry-ready developer.
 - 😄 Fun Fact: I love turning real-life student problems into tech solutions!
+- 🤝 Collaboration: I’m always open to teaming up on meaningful projects! Whether it's building a startup idea, contributing to open-source, or solving real-world problems — let’s connect and collaborate!
+
+
 
 ---
 
@@ -32,17 +35,6 @@
 - Status: 🚧 In Progress
 - [GitHub Repo](https://github.com/your-repo)
 
-### 🛒 Smart Supermarket Scanner
-> Scan QR codes to get **price + expiry date** instantly.
-- Tech: React Native, Firebase
-- Status: ✅ MVP Ready
-- [GitHub Repo](https://github.com/your-repo)
-
-### 🎓 CampusHub – Student Notes & Resource Sharing App
-> Share notes, doubts, and materials within your college community.
-- Tech: HTML, JS, Firebase
-- Status: 🧪 Testing Phase
-- [GitHub Repo](https://github.com/your-repo)
 
 ---
 
@@ -63,9 +55,8 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-bonthu-207213355)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:srirambonthu767@gmail.com)
 
 ---
 
